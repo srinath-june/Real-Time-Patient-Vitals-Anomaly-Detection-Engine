@@ -1,0 +1,13 @@
+Flask==3.0.3
+numpy==2.1.1
+pandas==2.2.2
+scikit-learn==1.5.1
+tensorflow==2.17.0
+matplotlib==3.9.2
+plotly==5.24.1
+joblib==1.4.2
+scipy==1.14.1
+seaborn==0.13.2
+openpyxl==3.1.5
+python-dotenv==1.0.1
+gunicorn==22.0.0
